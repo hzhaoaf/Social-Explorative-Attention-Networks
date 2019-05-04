@@ -13,7 +13,8 @@ The *sean* algorithm goes beyond personalized content recommendation by consider
 #### Example
 To run *sean* on Steemit-En, you can use the following command:<br/>
   ``cd sean``
-	``python main.py --walk-length 20 --num-walks 3``
+  
+  ``python main.py --walk-length 20 --num-walks 3``
 
 #### Options
 You can check out the other options available to use with *sean* using:<br/>
