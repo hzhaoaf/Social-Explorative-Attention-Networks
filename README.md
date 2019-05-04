@@ -1,1 +1,1 @@
-# SEAN
+# Social Explorative Attention Networks (SEAN)
