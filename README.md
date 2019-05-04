@@ -16,8 +16,8 @@ To run *sean* on Steemit-En, you can use the following command:<br/>
 	``python main.py --walk-length 20 --num-walks 3``
 
 #### Options
-You can check out the other options available to use with *node2vec* using:<br/>
-	``python src/main.py --help``
+You can check out the other options available to use with *sean* using:<br/>
+	``python main.py --help``
 
 #### Input
 The supported input format is an edgelist:
