@@ -31,7 +31,7 @@ The graph is assumed to be directed and unweighted by default.
 The probability of clicking an unseen document by the target user.
 
 ### Citing
-If you find *node2vec* useful for your research, please consider citing the following paper:
+If you find *sean* useful for your research, please consider citing the following paper:
 
 	@inproceedings{sean-kdd2019,
 	author = {Wenyi Xiao, Huan Zhao, Haojie Pan, Yangqiu Song, Vincent W. Zheng, Qiang Yang.},
