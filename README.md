@@ -1,6 +1,6 @@
 # Social Explorative Attention Networks (SEAN)
 
-This repository provides a reference implementation of *sean* as described in the paper:<br>
+This repository provides a reference implementation of *sean* as described in the paper in SIGKDD 2019:<br>
 > Beyond Personalization: Social Content Recommendation for Creator Equality and Consumer Satisfaction.<br>
 > Wenyi Xiao, Huan Zhao, Haojie Pan, Yangqiu Song, Vincent W. Zheng, Qiang Yang.<br>
 > Knowledge Discovery and Data Mining, 2019.<br>
